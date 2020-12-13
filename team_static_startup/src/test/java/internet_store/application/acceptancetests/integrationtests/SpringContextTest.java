@@ -22,4 +22,5 @@ public class SpringContextTest {
     public void start(){
         assertNotNull(applicationContext);
     }
+
 }
