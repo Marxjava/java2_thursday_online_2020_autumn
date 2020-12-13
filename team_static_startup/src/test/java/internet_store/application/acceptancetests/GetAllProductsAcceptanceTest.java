@@ -1,6 +1,6 @@
 package internet_store.application.acceptancetests;
 
-import internet_store.application.ProductListConfiguration;
+import internet_store.application.config.ProductListConfiguration;
 import internet_store.application.core.requests.AddProductRequest;
 import internet_store.application.core.requests.GetAllProductsRequest;
 import internet_store.application.core.responses.GetAllProductsResponse;

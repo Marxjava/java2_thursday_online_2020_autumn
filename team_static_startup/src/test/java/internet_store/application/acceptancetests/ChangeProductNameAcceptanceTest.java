@@ -1,6 +1,6 @@
 package internet_store.application.acceptancetests;
 
-import internet_store.application.ProductListConfiguration;
+import internet_store.application.config.ProductListConfiguration;
 import internet_store.application.core.database.Database;
 import internet_store.application.core.domain.Product;
 import internet_store.application.core.requests.ChangeProductNameRequest;

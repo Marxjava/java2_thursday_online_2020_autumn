@@ -1,4 +1,4 @@
-package internet_store.application;
+package internet_store.application.config;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;

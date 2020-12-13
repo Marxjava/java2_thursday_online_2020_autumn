@@ -1,6 +1,6 @@
 package internet_store.application.acceptancetests.integrationtests;
 
-import internet_store.application.ProductListConfiguration;
+import internet_store.application.config.ProductListConfiguration;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

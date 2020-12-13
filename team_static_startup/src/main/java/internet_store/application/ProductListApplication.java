@@ -1,5 +1,6 @@
 package internet_store.application;
 
+import internet_store.application.config.ProductListConfiguration;
 import internet_store.application.console_ui.*;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
